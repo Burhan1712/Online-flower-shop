@@ -1,0 +1,39 @@
+.btn-primary {
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    padding: 20px 43px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.header {
+    display: flex;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgba(229, 84, 115, 0.10);
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 212px;
+
+
+}
+.headline {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 32px;
+}
+
+.head-para {
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+
+}
+.head-profile{
+    padding: 50px 190px  0px 0px;
+}
